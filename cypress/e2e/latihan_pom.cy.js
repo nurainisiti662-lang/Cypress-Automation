@@ -1,4 +1,4 @@
-import loginPage from "../support/loginFeature";
+import loginPage from "../support/pageObjects/loginFeature";
 import loginData from "../fixtures/loginData.json"
 
 describe('OrangeHRM Login Feature', () => {
